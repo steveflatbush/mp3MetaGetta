@@ -1,6 +1,7 @@
 # mp3MetaGetta
 Getta the mp3 meta
-mp3MetaGetta ©2017 Steve Flatbush
+mp3MetaGetta ©2017
+Steve Flatbush
 Initial Release v1.0
 
 Summary:
