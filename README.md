@@ -9,7 +9,12 @@ The mp3MetaGetta application extracts and exports in csv format, all mp3 files' 
 Description:The mp3MetaGetta application is a Windows Form C# application to export all existing mp3 file metadata within a folder and all subfolders. All metadata is output to a text file to the chosen parent folder, named metadata.txt, and formatted as a csv file. This file can be imported into an Excel spreadsheet or SQL Server for example.
 
 How to use:
-The metadata tags extracted are:Tag Name  Output NameNamePart of set  Disc, Discs (parse example - 3/4 = Disc 3, Discs 4)
+The metadata tags extracted are:
+Tag Name
+Output Name
+Name
+Part of set  Disc, 
+Discs (parse example - 3/4 = Disc 3, Discs 4)
 Exception handling: When metadata is not found or it is incorrect (particularly the 'Part of set'property), an alert message is displayed. Upon clicking the OK button, the offending metadata is left blank in the output file. 
 
 Liability: 
